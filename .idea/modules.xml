@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AvgWordLength/AvgWordLength.iml" filepath="$PROJECT_DIR$/AvgWordLength/AvgWordLength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigOrSmall/BigOrSmall.iml" filepath="$PROJECT_DIR$/BigOrSmall/BigOrSmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitExtracter/DigitExtracter.iml" filepath="$PROJECT_DIR$/DigitExtracter/DigitExtracter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DigitText/DigitText.iml" filepath="$PROJECT_DIR$/DigitText/DigitText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoubleSpaceCleaner/DoubleSpaceCleaner.iml" filepath="$PROJECT_DIR$/DoubleSpaceCleaner/DoubleSpaceCleaner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GooQuery/GooQuery.iml" filepath="$PROJECT_DIR$/GooQuery/GooQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GooSearchResult/GooSearchResult.iml" filepath="$PROJECT_DIR$/GooSearchResult/GooSearchResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GooWordStat/GooWordStat.iml" filepath="$PROJECT_DIR$/GooWordStat/GooWordStat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW6.iml" filepath="$PROJECT_DIR$/HW6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathDetector/MathDetector.iml" filepath="$PROJECT_DIR$/MathDetector/MathDetector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromeCounter/PalindromeCounter.iml" filepath="$PROJECT_DIR$/PalindromeCounter/PalindromeCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phrase/Phrase.iml" filepath="$PROJECT_DIR$/Phrase/Phrase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PunctuationMarkCounter/PunctuationMarkCounter.iml" filepath="$PROJECT_DIR$/PunctuationMarkCounter/PunctuationMarkCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SensitiveDataSearcher/SensitiveDataSearcher.iml" filepath="$PROJECT_DIR$/SensitiveDataSearcher/SensitiveDataSearcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShortWordCounter/ShortWordCounter.iml" filepath="$PROJECT_DIR$/ShortWordCounter/ShortWordCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringByteWorker/StringByteWorker.iml" filepath="$PROJECT_DIR$/StringByteWorker/StringByteWorker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SummaryCreator/SummaryCreator.iml" filepath="$PROJECT_DIR$/SummaryCreator/SummaryCreator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniqueCharCounter/UniqueCharCounter.iml" filepath="$PROJECT_DIR$/UniqueCharCounter/UniqueCharCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordCombine/WordCombine.iml" filepath="$PROJECT_DIR$/WordCombine/WordCombine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordDeleter/WordDeleter.iml" filepath="$PROJECT_DIR$/WordDeleter/WordDeleter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordFreqCounter/WordFreqCounter.iml" filepath="$PROJECT_DIR$/WordFreqCounter/WordFreqCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordSplitter/WordSplitter.iml" filepath="$PROJECT_DIR$/WordSplitter/WordSplitter.iml" />
+    </modules>
+  </component>
+</project>
